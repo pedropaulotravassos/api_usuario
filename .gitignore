@@ -24,4 +24,3 @@ yarn-error.log*
 # Arquivos de teste
 .ANOTACOES
 templates/emails/novoUsuario.html
-templates/emails/resetSenha.html
